@@ -12,3 +12,8 @@ also i have created a database in myphphadmin where:
 
 I linked the signup.php and login.php with same database to send and retrive data.
 after postback user enter the login value data.
+
+
+regards
+
+#yogesh jha
